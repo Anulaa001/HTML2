@@ -1,0 +1,39 @@
+body{
+    background-color: lavender;
+}
+.option
+{
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px dotted #444444;
+    opacity: 0.8;
+    
+}
+.option:hover{
+    background-color: #000000;
+    cursor: pointer;
+    transition: 0.8s;
+    
+}
+#prawybox{
+    width: 200px;
+    height: 300px;
+    float: left;
+    border: 2px solid black;
+}
+#lewybox{
+    width: 200px;
+    height: 300px;
+    float: right;
+    border: 2px solid black;
+}
+#workspace{
+    border: 2px solid black;
+    height: 300px;
+    text-shadow: brown;
+    font-size: large;
+    
+}
