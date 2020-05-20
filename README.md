@@ -1,5 +1,5 @@
 # HTML2
-WEbsite using CSS I JS
+Website using CSS and JS
 
 With small ball game in JavaScript 
 
